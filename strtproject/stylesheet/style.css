@@ -1,0 +1,20 @@
+.header{
+  padding: 50px;
+  text-align: center;
+  background: #a3d2f7;
+  margin-bottom: 30px;
+}
+.container-body{
+  background: #ffffff;
+}
+html,body{
+ 	margin-left: auto;
+    margin-right: auto;
+}
+.scroll{
+	overflow: scroll;
+	height: 400px;
+}
+.btn-style{
+	margin-bottom: 20px;
+}
