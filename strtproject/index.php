@@ -1,5 +1,5 @@
 <?php
-    require_once 'config/adddata.cfg.php';
+    require_once 'router/adddata.rt.php';
     require_once 'view/viewrecord.vw.php';
     $test = new ViewRecord();
 ?>
